@@ -1,0 +1,313 @@
+{
+  "title": "Cyber Security - Prototype",
+  "displayTitle": "Cyber Security - Prototype",
+  "body": "<p>Welcome to the Cyber Security Foundation Course for North Tyneside Council.</p><p>&nbsp;</p><p>In this course you will:</p><p>&nbsp;</p><p>…recognise the need for cyber security within North Tyneside Council</p><p>…identify personal data, as defined by UKGDPR.</p><p>…review North Tyneside's procedure for handling data.</p><p>…implement good internet safety practices at home.</p><p>…implement good internet safety practices at work.</p><p>&nbsp;</p><p>For those less familiar with eLearning or would like a refresher, it is recommended that you begin with module 0 to get a quick tutorial on navigating through this course.</p><p>&nbsp;</p><p><span style=\"color:hsl(30,75%,60%);\"><strong>NB: Sequential locking (linear flow) has been disabled for the first few modules to allow for ease of project assessment.</strong></span></p>",
+  "description": "",
+  "_latestTrackingId": 114,
+  "_language": "en",
+  "_multilanguage": [],
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Submit",
+      "ariaLabel": "Submit"
+    },
+    "_reset": {
+      "buttonText": "Reset",
+      "ariaLabel": "Reset"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Show correct answer",
+      "ariaLabel": "Show correct answer"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Hide correct answer",
+      "ariaLabel": "Hide correct answer"
+    },
+    "_showFeedback": {
+      "buttonText": "Show feedback",
+      "ariaLabel": "Show feedback"
+    },
+    "remainingAttemptsText": "remaining attempts",
+    "remainingAttemptText": "final attempt",
+    "disabledAriaLabel": "This button is disabled at the moment"
+  },
+  "_classes": "",
+  "_lockType": "custom",
+  "_id": "course",
+  "_type": "course",
+  "_start": {
+    "_isEnabled": false,
+    "_startIds": [],
+    "_force": false,
+    "_isMenuDisabled": false
+  },
+  "_globals": {
+    "_accessibility": {
+      "_accessibilityToggleTextOn": "Turn accessibility on?",
+      "_accessibilityToggleTextOff": "Turn accessibility off?",
+      "skipNavigationText": "Skip navigation",
+      "_accessibilityInstructions": {
+        "touch": "Usage instructions. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page.",
+        "notouch": "Usage instructions. Use tab for next. Use shift tab for previous. Use enter to select. Use escape to go to the top of the page.",
+        "ipad": "Usage instructions for touchscreens. Use swipe left for next. Use swipe right for previous. Use a double tab to select. Use a two finger slide up to go to the top of the page. Usage instructions for keyboard access. Use left for next. Use right for previous. Use up and down together to select."
+      },
+      "_ariaLabels": {
+        "navigation": "Course navigation bar",
+        "skipNavigation": "Skip navigation",
+        "home": "Home",
+        "menuLoaded": "Menu loaded",
+        "menu": "Menu",
+        "menuItem": "Menu item",
+        "menuViewButton": "Select here to enter",
+        "page": "Page",
+        "pageLoaded": "Page loaded",
+        "previous": "Back",
+        "navigationBack": "Navigate back",
+        "navigationDrawer": "Open course resources and search",
+        "closeResources": "Close resources",
+        "drawerBack": "Back to drawer",
+        "drawer": "Side drawer",
+        "closeDrawer": "Close drawer",
+        "closePopup": "Close popup",
+        "next": "Next",
+        "done": "Done",
+        "complete": "Complete",
+        "incomplete": "Incomplete",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "locked": "Locked",
+        "accessibilityToggleButton": "By selecting this button you can set whether accessibility is turned on or off",
+        "feedbackPopUp": "Popup opened",
+        "visited": "Visited",
+        "menuBack": "Back to menu",
+        "menuIndicatorHeading": "Menu item heading ",
+        "exit": "Exit"
+      }
+    },
+    "_components": {
+      "_hiddenHotspots": {
+        "ariaRegion": "Below is a component which allows you to select hot spots over an image. Select a hot spot to trigger a popup that includes an image with display text. Select the close button to close the popup.",
+        "ariaPoupupLabel": "Hotgraphic popup"
+      },
+      "_stacker": {
+        "ariaRegion": "This is a question component that provides the ability to select from a sliding range of answers and also offers the ability to place them in a specific order. Select the previous and next arrows to move through the items, and select the ordering button to place them in the correct position. When you have selected your answers select the submit button",
+        "previous": "{{#if title}}Back to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{title}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
+        "itemPosition": "Position (item {{itemNumber}} of {{totalItems}})",
+        "movePosition": "Move to this position"
+      },
+      "_flipcard": {
+        "ariaRegion": "This component is a flipcard comprised of flippable cards containing display image. Select the front face image to flip to the back face of these card to display associated text."
+      },
+      "_fillInTheBlanks": {
+        "ariaRegion": "This is a fill in the blanks question. Once you have finished selecting options or entering text, select the submit button below."
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_media": {
+        "ariaRegion": "Media player{{#any _transcript._inlineTranscript _transcript._externalTranscript}} and transcript{{/any}}.",
+        "skipToTranscript": "Skip to transcript",
+        "playText": "Play",
+        "pauseText": "Pause",
+        "stopText": "Stop",
+        "audioPlayerText": "Audio Player",
+        "videoPlayerText": "Video Player",
+        "tracksText": "Captions/Subtitles",
+        "timeSliderText": "Time Slider",
+        "muteText": "Mute Toggle",
+        "unmuteStatusText": "Unmute",
+        "muteStatusText": "Mute",
+        "volumeSliderText": "Volume Slider",
+        "fullscreenText": "Fullscreen",
+        "goFullscreenText": "Go Fullscreen",
+        "turnOffFullscreenText": "Turn off Fullscreen",
+        "noneText": "None",
+        "skipBackText": "Skip back %1 seconds",
+        "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
+        "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+      },
+      "_text": {
+        "ariaRegion": ""
+      },
+      "_yesNo": {
+        "ariaRegion": "This component is a time-based question. For a set of images you must decide whether each one meets a set of criteria or not",
+        "ariaImageContainer": "Images",
+        "ariaInstruction": "You have {{timerSeconds}} seconds to complete this question",
+        "timeWarning": "You have ten seconds left",
+        "timeUp": "Your time is up",
+        "questionComplete": "Question complete"
+      }
+    },
+    "_extensions": {
+      "_dyslexiaHelper": {
+        "navigationBarLabel": "Open dyslexia helper options"
+      },
+      "_glossary": {
+        "glossary": "Glossary",
+        "labelLink": "Terms beginning with",
+        "labelNavigation": "Glossary navigation"
+      },
+      "_pageLevelProgress": {
+        "pageLevelProgress": "Page sections",
+        "pageLevelProgressIndicatorBar": "Page progress. Use this to listen to the list of regions in this topic and whether they're completed. You can jump directly to any that are incomplete or which sound particularly interesting. {{percentageComplete}}%",
+        "pageLevelProgressMenuBar": "Page completion {{percentageComplete}}%",
+        "pageLevelProgressEnd": "You have reached the end of the list of page sections.",
+        "optionalContent": "Optional content",
+        "_navOrder": "0"
+      },
+      "_resources": {
+        "resources": "Additional resources."
+      },
+      "_tutor": {
+        "hideFeedback": "Hide feedback"
+      }
+    },
+    "_menu": {
+      "_boxMenuCustom": {
+        "ariaRegion": "Menu",
+        "durationLabel": "Duration:",
+        "menuItem": "Menu item.",
+        "menuEnd": "You have reached the end of the menu."
+      }
+    }
+  },
+  "_menu": {
+    "_boxMenuCustom": {
+      "_menuInstructionText": "Click or tap on the blocks below to find out more"
+    }
+  },
+  "metadata": {
+    "parentCourseIds": [
+      "636528cd4e4ad83058b453b8"
+    ]
+  },
+  "_learningObjectives": {
+    "_isEnabled": true,
+    "_objectives": [
+      {
+        "_code": "LO-1a",
+        "title": "Test learning objective",
+        "description": "",
+        "_classes": ""
+      }
+    ],
+    "_popup": {
+      "_isEnabled": true,
+      "_duration": 2,
+      "templateText": "\"{{title}}\" achieved!"
+    }
+  },
+  "_pageFooterNavigation": {
+    "_isEnabled": true,
+    "_displayIcons": false,
+    "nextButtonText": "Next",
+    "prevButtonText": "Previous",
+    "homeButtonText": "Home",
+    "upButtonText": "Up",
+    "_displayOptions": "scrollToBottom",
+    "_hideHomeButton": false,
+    "_hideUpButton": true,
+    "_hidePrevButton": false,
+    "_hideNextButton": false
+  },
+  "_dyslexiaHelper": {
+    "_isEnabled": true,
+    "titleText": "Coloured Overlays",
+    "instructionsText": "Click or tap on a colour palette below to enable/disable coloured overlays for improved readability"
+  },
+  "_bookmarking": {
+    "_isEnabled": true,
+    "_level": "component",
+    "_showPrompt": true,
+    "title": "Bookmarking",
+    "body": "Would you like to continue where you left off?",
+    "_buttons": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  },
+  "_glossary": {
+    "_isEnabled": false,
+    "_drawerOrder": 0,
+    "title": "Glossary",
+    "description": "Select here to view the glossary for this course",
+    "clearSearch": "Clear search",
+    "searchItemsAlert": "{{filteredItems.length}} found",
+    "searchPlaceholder": "Search",
+    "searchWithInDescriptionLabel": "Search within Description",
+    "itemNotFoundMessage": "No results found",
+    "_isSearchEnabled": true,
+    "_isIndexEnabled": false,
+    "_isGroupHeadersEnabled": false,
+    "_glossaryItems": []
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": true,
+    "_showPageCompletion": true,
+    "_isCompletionIndicatorEnabled": true,
+    "_isShownInNavigationBar": true,
+    "_showAtCourseLevel": false
+  },
+  "_resources": {
+    "_isEnabled": true,
+    "_drawerOrder": 0,
+    "title": "Resources",
+    "description": "Select here to view resources for this course",
+    "_filterButtons": {
+      "all": "All",
+      "document": "Documents",
+      "media": "Media",
+      "link": "Links"
+    },
+    "_filterAria": {
+      "allAria": "View all resources",
+      "documentAria": "View document resources",
+      "mediaAria": "View media resources",
+      "linkAria": "View resource links"
+    },
+    "_resourcesItems": []
+  },
+  "_spoor": {
+    "_messages": null
+  },
+  "_tutor": {
+    "_type": "notify",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  },
+  "_pageIncompletePrompt": {
+    "_isEnabled": true,
+    "title": "Page incomplete",
+    "message": "This page is not yet complete. Make sure to watch all videos and interact with all buttons. For help finding where you may have missed some content, click/tap on the progress bar at the top of the page.",
+    "_classes": "",
+    "_buttons": {
+      "yes": "Leave page",
+      "no": "Continue on page"
+    }
+  }
+}

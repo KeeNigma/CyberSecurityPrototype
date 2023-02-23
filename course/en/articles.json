@@ -1,0 +1,1422 @@
+[
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc27d",
+    "_parentId": "63e61d1d2e834802d12cc261",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "1 - What is Cyber Security",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc27e",
+    "_parentId": "63e61d1d2e834802d12cc26b",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc280",
+    "_parentId": "63e61d1d2e834802d12cc26d",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc281",
+    "_parentId": "63e61d1d2e834802d12cc26f",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "What is Cyber Security",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc283",
+    "_parentId": "63e61d1d2e834802d12cc26c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "GDPR & Personal Data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc287",
+    "_parentId": "63e61d1d2e834802d12cc26e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Handling Personal Data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc28d",
+    "_parentId": "63e61d1d2e834802d12cc270",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc293",
+    "_parentId": "63e61d1d2e834802d12cc271",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc294",
+    "_parentId": "63e61d1d2e834802d12cc272",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc295",
+    "_parentId": "63e61d1d2e834802d12cc273",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc296",
+    "_parentId": "63e61d1d2e834802d12cc274",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc297",
+    "_parentId": "63e61d1d2e834802d12cc275",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc298",
+    "_parentId": "63e61d1d2e834802d12cc276",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Handling Personal Data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc299",
+    "_parentId": "63e61d1d2e834802d12cc277",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "JDLR and Phishing",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc29f",
+    "_parentId": "63e61d1d2e834802d12cc278",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Handling Personal Data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a5",
+    "_parentId": "63e61d1d2e834802d12cc279",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Internet Security",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2ab",
+    "_parentId": "63e61d1d2e834802d12cc27a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Handling Personal Data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b1",
+    "_parentId": "63e61d1d2e834802d12cc27b",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Handling Personal Data",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b7",
+    "_parentId": "63e61d1d2e834802d12cc27c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc27f",
+    "_parentId": "63e61d1d2e834802d12cc26c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc288",
+    "_parentId": "63e61d1d2e834802d12cc26e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc28e",
+    "_parentId": "63e61d1d2e834802d12cc270",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc29a",
+    "_parentId": "63e61d1d2e834802d12cc277",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a0",
+    "_parentId": "63e61d1d2e834802d12cc278",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a6",
+    "_parentId": "63e61d1d2e834802d12cc279",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2ac",
+    "_parentId": "63e61d1d2e834802d12cc27a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b2",
+    "_parentId": "63e61d1d2e834802d12cc27b",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 1 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": " remove-padding-top",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b8",
+    "_parentId": "63e61d1d2e834802d12cc27c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc285",
+    "_parentId": "63e61d1d2e834802d12cc26c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc289",
+    "_parentId": "63e61d1d2e834802d12cc26e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc28f",
+    "_parentId": "63e61d1d2e834802d12cc270",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc29b",
+    "_parentId": "63e61d1d2e834802d12cc277",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a1",
+    "_parentId": "63e61d1d2e834802d12cc278",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a7",
+    "_parentId": "63e61d1d2e834802d12cc279",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2ad",
+    "_parentId": "63e61d1d2e834802d12cc27a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b3",
+    "_parentId": "63e61d1d2e834802d12cc27b",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b9",
+    "_parentId": "63e61d1d2e834802d12cc27c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc282",
+    "_parentId": "63e61d1d2e834802d12cc26c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc28a",
+    "_parentId": "63e61d1d2e834802d12cc26e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc290",
+    "_parentId": "63e61d1d2e834802d12cc270",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc29c",
+    "_parentId": "63e61d1d2e834802d12cc277",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a2",
+    "_parentId": "63e61d1d2e834802d12cc278",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a8",
+    "_parentId": "63e61d1d2e834802d12cc279",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2ae",
+    "_parentId": "63e61d1d2e834802d12cc27a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b4",
+    "_parentId": "63e61d1d2e834802d12cc27b",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "D2 TITLE",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-colour1",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2ba",
+    "_parentId": "63e61d1d2e834802d12cc27c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc284",
+    "_parentId": "63e61d1d2e834802d12cc26c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc28b",
+    "_parentId": "63e61d1d2e834802d12cc26e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc291",
+    "_parentId": "63e61d1d2e834802d12cc270",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc29d",
+    "_parentId": "63e61d1d2e834802d12cc277",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a3",
+    "_parentId": "63e61d1d2e834802d12cc278",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a9",
+    "_parentId": "63e61d1d2e834802d12cc279",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2af",
+    "_parentId": "63e61d1d2e834802d12cc27a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b5",
+    "_parentId": "63e61d1d2e834802d12cc27b",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2bb",
+    "_parentId": "63e61d1d2e834802d12cc27c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc28c",
+    "_parentId": "63e61d1d2e834802d12cc26e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc292",
+    "_parentId": "63e61d1d2e834802d12cc270",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc29e",
+    "_parentId": "63e61d1d2e834802d12cc277",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2a4",
+    "_parentId": "63e61d1d2e834802d12cc278",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2aa",
+    "_parentId": "63e61d1d2e834802d12cc279",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b0",
+    "_parentId": "63e61d1d2e834802d12cc27a",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2b6",
+    "_parentId": "63e61d1d2e834802d12cc27b",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Question 3",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63e61d1d2e834802d12cc2bc",
+    "_parentId": "63e61d1d2e834802d12cc27c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef7827d402d30676b71369",
+    "_parentId": "63e61d1d2e834802d12cc26c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef7c3d2bb4bd4b154c2753",
+    "_parentId": "63e61d1d2e834802d12cc26e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef7d46e2de5a072abd1081",
+    "_parentId": "63e61d1d2e834802d12cc270",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Candy Stripe",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "background-image1   remove-padding-top remove-padding-bottom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef7fa2e2ab574dbeb732bb",
+    "_parentId": "63e61d1d2e834802d12cc277",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef7830d142de4fd0fd5318",
+    "_parentId": "63e61d1d2e834802d12cc26c",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef7c372559b27ea793a6dc",
+    "_parentId": "63e61d1d2e834802d12cc26e",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef7cf82bb4bd4b154c2756",
+    "_parentId": "63e61d1d2e834802d12cc270",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "Article title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_id": "63ef7f9c85d4e534467c434c",
+    "_parentId": "63e61d1d2e834802d12cc277",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  }
+]
